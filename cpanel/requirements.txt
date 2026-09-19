@@ -1,0 +1,3 @@
+# Resolved from the imports actually present in flask/.
+Faker>=24.0
+Flask>=3.0,<4
