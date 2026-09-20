@@ -6,3 +6,6 @@ venv/
 .env
 *.log
 .DS_Store
+
+# Flask instance folder holds the SQLite database.
+flask/instance/
